@@ -36,14 +36,3 @@ I am a student interested in technology and programming. I work on **school-leve
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2E88" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayizahmed&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayizahmed&theme=tokyonight&hide_border=true" />
-</p>
